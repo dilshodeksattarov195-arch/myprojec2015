@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdave",
+        "uuid": 16879655,
+        "checksum": "rcoo6p"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
